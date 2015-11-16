@@ -1,4 +1,4 @@
-SAATP-ExemploJava
+Sistema de Apoio a Avaliação de Trabalhos de Programação
 =============
 
 This github repository is used by a tool called 'Sistema de Apoio a Avaliação de Trabalhos de Programação'. That start vagrant boxes for a certain github project. This project is using another project as base for application provisioning, see [vagrant-devel](https://github.com/pussinboots/vagrant-devel).
